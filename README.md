@@ -3,9 +3,9 @@
 
 ![Imagen Principal](https://github.com/jorgemuri/jorgemuri/blob/main/.img/ImgPortfolio.png?raw=true)
 
-Soy un estudiante del ciclo superior **DAM** *desarrollador de aplicaciones multiplataformas* 🎓🎓
+Soy un estudiante de **18 años** del ciclo superior **DAM** *desarrollador de aplicaciones multiplataformas* 🎓🎓
 
-Acualmente me encuentro en mi primero curso en el **IES Castelar de Badajoz**
+Actualmente me encuentro en mi primero curso en el **IES Castelar de Badajoz**
 
 **Mis títulos son los siguientes:**
 
