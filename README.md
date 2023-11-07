@@ -1,4 +1,4 @@
 ---
 ## 👾 ¡Bienvenido a mi portfolio.  JORGE MURILLO CARRERA  👾
-I'm a full stack developer...
 
+[Imagen Principal](https://github.com/jorgemuri/jorgemuri/blob/main/.img/ImgPortfolio.png?raw=true)
