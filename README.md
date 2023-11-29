@@ -12,3 +12,4 @@ Actualmente me encuentro en mi primero curso en el **IES Castelar de Badajoz**
 * Bachillerato científico-tecnológico.
 * Título profesional del conservatorio de música Juan Vázquez de Badajoz. 🎹🎶
 * Actualmente pertenezco al grupo Scouts 690 Marwan. ⚜️
+	- **En proceso** *del título de monitor de ocio y tiempo libre* 👷⚒️
