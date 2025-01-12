@@ -21,4 +21,19 @@ Actualmente me encuentro realizando las prácticas del periodo dual del **IES Ca
 
 <hr>
 
+*Lenguajes de programación:*
+
+- **Java**
+- **Python**
+- **C#**
+- **Kotlin**
+- **JavaScript**
+- **TypeScript**
+
+*Frameworks:*
+
+- Angular
+- Laravel
+
+
 📩📩 ***jmurilloc12@iescastelar.com***
